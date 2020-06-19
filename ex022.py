@@ -1,0 +1,6 @@
+n=str(input('Digite seu nome: '))
+print(n.upper())
+print(n.lower())
+print(len(n.strip()))
+p=n.split()
+print(len(p[0]))
