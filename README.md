@@ -12,5 +12,6 @@
 - OPERADORES CONDICIONAIS (if, for, while)
 - CORES NO TERMINAL
 
+<hr>
 
 #####  Feito por Pedro Viana - Contato(https://www.linkedin.com/in/pedro-viana-886a361a7/)
