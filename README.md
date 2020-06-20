@@ -1,5 +1,5 @@
 # Exercícios Python
-<br><b>100 exercícios feito durante o curso de Python do CursoEmVideo</b>
+<br><b>Mais de 100 exercícios feito durante o curso de Python do CursoEmVideo</b>
 
 ##  Sobre os exercicios
  Os exercícios desse curso começa desde do famoso "Hello world" até o inicio de data science. Os exercícios são divididos em 3 etapas:
