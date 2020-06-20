@@ -2,7 +2,7 @@
 <br><b>Mais de 100 exercícios feito durante o curso de Python do CursoEmVideo</b>
 
 ##  Sobre os exercicios
- Os exercícios desse curso começa desde do famoso "Hello world" até o inicio de data science. Os exercícios são divididos em 3 etapas:
+ Os exercícios desse curso começa desde do famoso "Hello world" até as estruturas de tuplas, listas, dicionários. Os exercícios são divididos em 3 etapas:
  <p> 1°- Exercício 1 até 35</p>
  <p> 2°- Exercício 36 até 71</p>
  <p> 3°- Exercício 72 até 115c</p>
