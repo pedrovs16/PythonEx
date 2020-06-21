@@ -1,0 +1,6 @@
+tabela = ('Flamengo', 'Cruzeiro', 'Figueirense', 'Chapecoense', 'Fluminense', 'Avai', 'Santos', 'Bragantino', 'Gremio')
+print(f'A ordem na tabela é {tabela}.')
+print(f'A tabela em  ordem alfabética é {sorted(tabela)}.' )
+print(f'Os primerios 5 times da tabela são {tabela[:5]}.')
+print(f'Os ultimos 4 times da tabela são {tabela[5:]}.')
+print(f'A posição da Chape é {tabela.index("Chapecoense") + 1}')
