@@ -17,6 +17,7 @@
 - TUPLAS
 - LISTAS
 - DICIONÁRIOS
+-DEFINIR FUNÇÕES
 
 <hr>
 
